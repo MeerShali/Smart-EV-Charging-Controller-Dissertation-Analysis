@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Smart Residential Energy Management System with Dynamic Tariff Optimization and Smart EV Charging Control"
+authors:
+  - family-names: Shali
+    given-names: Meer
+date-released: 2026-01-01
+version: 1.0.0
+repository-code: "https://github.com/MeerShali/Smart-EV-Charging-Controller-Dissertation-Analysis"
+keywords:
+  - Smart EV Charging
+  - Energy Management
+  - Dynamic Tariffs
+license: MIT
